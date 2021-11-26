@@ -11,9 +11,9 @@
        Test Status : Passed ✅
 
 #### Senaryo 2: changePassword()
-- login() metodu ile çiçeksepeti.com'a gidilir.
+- login() methodu ile Login işlemi yapılır.
+- çiçeksepeti.com'a gidilir.
 - Gönderim yeri popup'ı kapatılır.
-- Login işlemi yapılır.
 - 'Hesabım' butonuna tıklanır.
 - 'Şifre Değiştir' butonuna tıklanır.
 - Eski ve yeni şifre bilgileri girilir.
@@ -25,9 +25,9 @@
 ## Class Test2
 
 #### Senaryo 1: addToBasketFavourites()
-- login() metodu ile ciceksepeti.com'a gidilir.
+- login() methodu ile Login işlemi yapılır.
+- ciceksepeti.com'a gidilir.
 - Gönderim yeri popup'ı kapatılır.
-- Login işlemi yapılır.
 - 'Favoriler' butonuna tıklanır.
 - Favoriler'de bulunan ürünlerden birine tıklanır.
 - Ürünün beden bilgisi seçilir.
@@ -37,9 +37,9 @@
        Test Status : Passed ✅
 
 #### Senaryo 2: removeFromBasket()
-- login() metodu ile çiçeksepeti.com’a gidilir.
+- login() methodu ile Login işlemi yapılır.
+- çiçeksepeti.com’a gidilir.
 - Gönderim yeri popup'ı kapatılır.
-- Login işlemi yapılır.
 - 'Sepetim' butonuna tıklanır.
 - Sepetten çıkarılmak istenen ürün için X ikonuna tıklanır.
 - 'Evet, sepetimden çıkar' butonuna tıklanır.
