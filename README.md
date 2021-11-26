@@ -47,4 +47,4 @@
 
        Test Status : Passed ✅
        
-NOT: E-mail ve şifre bilgilerini bilgilerinizle güncelleyebilirsiniz!
+NOT: E-mail ve şifre bilgilerini güncelleyebilirsiniz!
